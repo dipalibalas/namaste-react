@@ -56,4 +56,10 @@ Notes of Episode 02 - Igniting our app
 - What is the use of browser list in package.json file?
 
 
+-> References:
+    - Parcel documentation
+    - Parcel on production
+    - BrowserList: https://browserlist.dev/
+
+
 
