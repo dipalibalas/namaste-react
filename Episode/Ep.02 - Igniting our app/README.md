@@ -50,6 +50,8 @@ Notes of Episode 02 - Igniting our app
     -> Code Splitting
     -> Differential bundling - support older browsers
     -> Tree shacking - remove unused code from file
+    -> HTTPS
+    -> Diagnostic
 
 - Why our app is fast? How its optimized?
 

@@ -1,7 +1,7 @@
 {
-  "name": "namaste-react-ep.02",
+  "name": "namaste-react-ep.04",
   "version": "1.0.0",
-  "description": "Namaste react episode 02",
+  "description": "Namaste react episode 04",
   "main": "App.js",
   "scripts": {
     "test": "jest",
